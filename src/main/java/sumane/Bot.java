@@ -1,4 +1,4 @@
-package xyz.sumane;
+package sumane;
 
 
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;

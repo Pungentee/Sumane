@@ -1,11 +1,11 @@
-package xyz.sumane;
+package sumane;
 
 import org.telegram.telegrambots.meta.TelegramBotsApi;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] argss) {
         final String TOKEN = System.getenv("TOKEN");
 
         try {
